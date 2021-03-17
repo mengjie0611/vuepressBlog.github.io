@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vuepress-blog/',
+  base: '/vuepressBlog/',
   title: '孟杰前端博客',
   description: '一个努力的码农',
   serviceWorker: true,
